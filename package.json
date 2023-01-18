@@ -18,7 +18,7 @@
     "fizzy-ui-utils": "^3.0.0",
     "get-size": "^3.0.0",
     "isotope-layout": "^3.0.6",
-    "jquery": "^3.6.0",
+    "jquery": "^3.6.3",
     "masonry-layout": "^4.2.2",
     "outlayer": "^2.1.1",
     "sqlite3": "^5.0.2"
