@@ -21,6 +21,6 @@
     "jquery": "^3.6.0",
     "masonry-layout": "^4.2.2",
     "outlayer": "^2.1.1",
-    "sqlite3": "^5.0.2"
+    "sqlite3": "^5.1.4"
   }
 }
